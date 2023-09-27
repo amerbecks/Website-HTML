@@ -5,18 +5,30 @@
   flex-direction: row;
 }
 .navigation-links-link {
+  font-size: 12px;
+  font-family: Avenir LT Std 45 Book;
+  text-transform: uppercase;
   text-decoration: none;
 }
 .navigation-links-link1 {
+  font-size: 12px;
+  font-family: Avenir LT Std 45 Book;
   margin-left: var(--dl-space-space-twounits);
+  text-transform: uppercase;
   text-decoration: none;
 }
 .navigation-links-text {
+  font-size: 12px;
+  font-family: Avenir LT Std 45 Book;
   margin-left: var(--dl-space-space-twounits);
+  text-transform: uppercase;
   text-decoration: none;
 }
 .navigation-links-link2 {
+  font-size: 12px;
+  font-family: Avenir LT Std 45 Book;
   margin-left: var(--dl-space-space-twounits);
+  text-transform: uppercase;
   text-decoration: none;
 }
 

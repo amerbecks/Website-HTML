@@ -1,3 +1,10 @@
+@font-face {
+  font-family: Avenir LT Std 45 Book;
+  font-style: normal;
+  font-format: opentype;
+  font-weight: 300;
+  src: url("public/fonts/avenirltstd-book.otf") ;
+}
 :root {
   --dl-color-gray-500: #595959;
   --dl-color-gray-700: #999999;
