@@ -503,6 +503,9 @@
   .home-navbar-interactive {
     padding: var(--dl-space-space-unit);
   }
+  .home-text {
+    font-size: 30px;
+  }
   .home-mobile-menu {
     padding: 16px;
     transform: translateX(-100%);
