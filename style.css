@@ -81,7 +81,6 @@
 }
 .teleport-show {
   display: flex !important;
-  transform: translateX(0%) !important;
 }
 .Content {
   font-size: 16px;
