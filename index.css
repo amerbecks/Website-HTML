@@ -411,7 +411,7 @@
   width: 50%;
   height: 600px;
   display: flex;
-  min-width: 350px;
+  min-width: 390px;
   align-self: stretch;
   align-items: center;
   justify-content: center;
